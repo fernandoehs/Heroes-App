@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/herreraweb/Heroes-App/static/js/main.3e383672.chunk.js",
-    "main.js.map": "/herreraweb/Heroes-App/static/js/main.3e383672.chunk.js.map",
-    "runtime-main.js": "/herreraweb/Heroes-App/static/js/runtime-main.c230b622.js",
-    "runtime-main.js.map": "/herreraweb/Heroes-App/static/js/runtime-main.c230b622.js.map",
-    "static/js/2.4a986eca.chunk.js": "/herreraweb/Heroes-App/static/js/2.4a986eca.chunk.js",
-    "static/js/2.4a986eca.chunk.js.map": "/herreraweb/Heroes-App/static/js/2.4a986eca.chunk.js.map",
-    "index.html": "/herreraweb/Heroes-App/index.html",
-    "static/js/2.4a986eca.chunk.js.LICENSE.txt": "/herreraweb/Heroes-App/static/js/2.4a986eca.chunk.js.LICENSE.txt"
+    "main.js": "/herreraweb/heroes/static/js/main.3e383672.chunk.js",
+    "main.js.map": "/herreraweb/heroes/static/js/main.3e383672.chunk.js.map",
+    "runtime-main.js": "/herreraweb/heroes/static/js/runtime-main.4f5a7140.js",
+    "runtime-main.js.map": "/herreraweb/heroes/static/js/runtime-main.4f5a7140.js.map",
+    "static/js/2.4a986eca.chunk.js": "/herreraweb/heroes/static/js/2.4a986eca.chunk.js",
+    "static/js/2.4a986eca.chunk.js.map": "/herreraweb/heroes/static/js/2.4a986eca.chunk.js.map",
+    "index.html": "/herreraweb/heroes/index.html",
+    "static/js/2.4a986eca.chunk.js.LICENSE.txt": "/herreraweb/heroes/static/js/2.4a986eca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c230b622.js",
+    "static/js/runtime-main.4f5a7140.js",
     "static/js/2.4a986eca.chunk.js",
     "static/js/main.3e383672.chunk.js"
   ]
